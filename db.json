@@ -1,9 +1,59 @@
 {
-  "posts": [
+  "books": [
     {
-      "id": 1,
-      "title": "json-server",
-      "author": "typicode"
+      "img_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
+      "book_name": "Harry Potter and the Philosopher's Stone",
+      "author": "J. K. Rowling",
+      "genre": "fiction",
+      "edition": "2022",
+      "publisher": "Bloomsbury",
+      "cost": "999",
+      "borrowed": false,
+      "id": 1
+    },
+    {
+      "img_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
+      "book_name": "Harry Potter and the Philosopher's Stone",
+      "author": "J. K. Rowling",
+      "genre": "fiction",
+      "edition": "2022",
+      "publisher": "Bloomsbury",
+      "cost": "999",
+      "borrowed": false,
+      "id": 2
+    },
+    {
+      "img_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
+      "book_name": "Harry Potter and the Philosopher's Stone",
+      "author": "J. K. Rowling",
+      "genre": "fiction",
+      "edition": "2022",
+      "publisher": "Bloomsbury",
+      "cost": "999",
+      "borrowed": false,
+      "id": 3
+    },
+    {
+      "img_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
+      "book_name": "Harry Potter and the Philosopher's Stone",
+      "author": "J. K. Rowling",
+      "genre": "fiction",
+      "edition": "2022",
+      "publisher": "Bloomsbury",
+      "cost": "999",
+      "borrowed": false,
+      "id": 4
+    },
+    {
+      "img_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
+      "book_name": "Harry Potter and the Philosopher's Stone",
+      "author": "J. K. Rowling",
+      "genre": "fiction",
+      "edition": "2022",
+      "publisher": "Bloomsbury",
+      "cost": "999",
+      "borrowed": false,
+      "id": 5
     }
   ],
   "comments": [
